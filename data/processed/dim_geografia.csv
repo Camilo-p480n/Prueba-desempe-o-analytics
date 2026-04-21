@@ -1,0 +1,251 @@
+geografia_id,pais,iso2,iso3,region,subregion,lat,lng
+1,Ivory Coast,CI,CIV,Africa,Western Africa,8.0,-5.0
+2,Italy,IT,ITA,Europe,Southern Europe,42.83333333,12.83333333
+3,Kyrgyzstan,KG,KGZ,Asia,Central Asia,41.0,75.0
+4,Papua New Guinea,PG,PNG,Oceania,Melanesia,-6.0,147.0
+5,Fiji,FJ,FJI,Oceania,Melanesia,-17.7134,178.065
+6,United Arab Emirates,AE,ARE,Asia,Western Asia,24.0,54.0
+7,Saint Kitts and Nevis,KN,KNA,Americas,Caribbean,17.33333333,-62.75
+8,French Guiana,GF,GUF,Americas,South America,4.0,-53.0
+9,Tanzania,TZ,TZA,Africa,Eastern Africa,-6.0,35.0
+10,Angola,AO,AGO,Africa,Middle Africa,-12.5,18.5
+11,Togo,TG,TGO,Africa,Western Africa,8.0,1.16666666
+12,Finland,FI,FIN,Europe,Northern Europe,64.0,26.0
+13,Malawi,MW,MWI,Africa,Eastern Africa,-13.5,34.0
+14,Mali,ML,MLI,Africa,Western Africa,17.0,-4.0
+15,Uzbekistan,UZ,UZB,Asia,Central Asia,41.0,64.0
+16,Senegal,SN,SEN,Africa,Western Africa,14.0,-14.0
+17,Uganda,UG,UGA,Africa,Eastern Africa,1.0,32.0
+18,Djibouti,DJ,DJI,Africa,Eastern Africa,11.5,43.0
+19,South Sudan,SS,SSD,Africa,Middle Africa,7.0,30.0
+20,Jersey,JE,JEY,Europe,Northern Europe,49.25,-2.16666666
+21,Tuvalu,TV,TUV,Oceania,Polynesia,-8.0,178.0
+22,Japan,JP,JPN,Asia,Eastern Asia,36.0,138.0
+23,Oman,OM,OMN,Asia,Western Asia,21.0,57.0
+24,Belgium,BE,BEL,Europe,Western Europe,50.83333333,4.0
+25,Saint Martin,MF,MAF,Americas,Caribbean,18.0708,-63.0501
+26,Mayotte,YT,MYT,Africa,Eastern Africa,-12.83333333,45.16666666
+27,France,FR,FRA,Europe,Western Europe,46.0,2.0
+28,Bulgaria,BG,BGR,Europe,Southeast Europe,43.0,25.0
+29,Cyprus,CY,CYP,Europe,Southern Europe,35.0,33.0
+30,South Korea,KR,KOR,Asia,Eastern Asia,37.0,127.5
+31,Mexico,MX,MEX,Americas,North America,23.0,-102.0
+32,North Macedonia,MK,MKD,Europe,Southeast Europe,41.83333333,22.0
+33,Guyana,GY,GUY,Americas,South America,5.0,-59.0
+34,Kosovo,XK,UNK,Europe,Southeast Europe,42.666667,21.166667
+35,Morocco,MA,MAR,Africa,Northern Africa,32.0,-5.0
+36,Gibraltar,GI,GIB,Europe,Southern Europe,36.13333333,-5.35
+37,Western Sahara,EH,ESH,Africa,Northern Africa,24.5,-13.0
+38,Andorra,AD,AND,Europe,Southern Europe,42.5,1.5
+39,Palau,PW,PLW,Oceania,Micronesia,7.5,134.5
+40,Guinea,GN,GIN,Africa,Western Africa,11.0,-10.0
+41,Turks and Caicos Islands,TC,TCA,Americas,Caribbean,21.75,-71.58333333
+42,Saudi Arabia,SA,SAU,Asia,Western Asia,25.0,45.0
+43,Botswana,BW,BWA,Africa,Southern Africa,-22.0,24.0
+44,Comoros,KM,COM,Africa,Eastern Africa,-12.16666666,44.25
+45,Belize,BZ,BLZ,Americas,Central America,17.25,-88.75
+46,Cambodia,KH,KHM,Asia,South-Eastern Asia,13.0,105.0
+47,Saint Lucia,LC,LCA,Americas,Caribbean,13.88333333,-60.96666666
+48,Mauritania,MR,MRT,Africa,Western Africa,20.0,-12.0
+49,Jamaica,JM,JAM,Americas,Caribbean,18.25,-77.5
+50,Cape Verde,CV,CPV,Africa,Western Africa,16.5388,-23.0418
+51,Marshall Islands,MH,MHL,Oceania,Micronesia,9.0,168.0
+52,Namibia,,NAM,Africa,Southern Africa,-22.0,17.0
+53,Iran,IR,IRN,Asia,Southern Asia,32.0,53.0
+54,Wallis and Futuna,WF,WLF,Oceania,Polynesia,-13.3,-176.2
+55,Azerbaijan,AZ,AZE,Asia,Western Asia,40.5,47.5
+56,Niger,NE,NER,Africa,Western Africa,16.0,8.0
+57,Heard Island and McDonald Islands,HM,HMD,Antarctic,,-53.0818,73.5042
+58,Laos,LA,LAO,Asia,South-Eastern Asia,18.0,105.0
+59,Burkina Faso,BF,BFA,Africa,Western Africa,13.0,-2.0
+60,Cocos (Keeling) Islands,CC,CCK,Oceania,Australia and New Zealand,-12.1642,96.871
+61,Luxembourg,LU,LUX,Europe,Western Europe,49.75,6.16666666
+62,Indonesia,ID,IDN,Asia,South-Eastern Asia,-5.0,120.0
+63,Lebanon,LB,LBN,Asia,Western Asia,33.83333333,35.83333333
+64,Turkey,TR,TUR,Asia,Western Asia,39.0,35.0
+65,Timor-Leste,TL,TLS,Asia,South-Eastern Asia,-8.83333333,125.91666666
+66,Zimbabwe,ZW,ZWE,Africa,Southern Africa,-20.0,30.0
+67,South Africa,ZA,ZAF,Africa,Southern Africa,-29.0,24.0
+68,Armenia,AM,ARM,Asia,Western Asia,40.0,45.0
+69,Ireland,IE,IRL,Europe,Northern Europe,53.0,-8.0
+70,Norway,NO,NOR,Europe,Northern Europe,62.0,10.0
+71,Kenya,KE,KEN,Africa,Eastern Africa,1.0,38.0
+72,North Korea,KP,PRK,Asia,Eastern Asia,40.0,127.0
+73,Afghanistan,AF,AFG,Asia,Southern Asia,33.0,65.0
+74,Bermuda,BM,BMU,Americas,North America,32.33333333,-64.75
+75,Spain,ES,ESP,Europe,Southern Europe,40.0,-4.0
+76,Netherlands,NL,NLD,Europe,Western Europe,52.5,5.75
+77,Nicaragua,NI,NIC,Americas,Central America,13.0,-85.0
+78,Lesotho,LS,LSO,Africa,Southern Africa,-29.5,28.5
+79,Egypt,EG,EGY,Africa,Northern Africa,27.0,30.0
+80,Gambia,GM,GMB,Africa,Western Africa,13.46666666,-16.56666666
+81,Brazil,BR,BRA,Americas,South America,-10.0,-55.0
+82,Australia,AU,AUS,Oceania,Australia and New Zealand,-27.0,133.0
+83,Bouvet Island,BV,BVT,Antarctic,,-54.4208,3.3464
+84,Pitcairn Islands,PN,PCN,Oceania,Polynesia,-25.06666666,-130.1
+85,Barbados,BB,BRB,Americas,Caribbean,13.16666666,-59.53333333
+86,Madagascar,MG,MDG,Africa,Eastern Africa,-20.0,47.0
+87,United Kingdom,GB,GBR,Europe,Northern Europe,54.0,-2.0
+88,Portugal,PT,PRT,Europe,Southern Europe,39.5,-8.0
+89,Greenland,GL,GRL,Americas,North America,72.0,-40.0
+90,American Samoa,AS,ASM,Oceania,Polynesia,-14.33333333,-170.0
+91,South Georgia,GS,SGS,Antarctic,,-54.5,-37.0
+92,Turkmenistan,TM,TKM,Asia,Central Asia,40.0,60.0
+93,Guadeloupe,GP,GLP,Americas,Caribbean,16.25,-61.583333
+94,Dominica,DM,DMA,Americas,Caribbean,15.41666666,-61.33333333
+95,Solomon Islands,SB,SLB,Oceania,Melanesia,-8.0,159.0
+96,Saint Pierre and Miquelon,PM,SPM,Americas,North America,46.83333333,-56.33333333
+97,Rwanda,RW,RWA,Africa,Eastern Africa,-2.0,30.0
+98,Norfolk Island,NF,NFK,Oceania,Australia and New Zealand,-29.03333333,167.95
+99,Panama,PA,PAN,Americas,Central America,9.0,-80.0
+100,Bahamas,BS,BHS,Americas,Caribbean,25.0343,-77.3963
+101,Tokelau,TK,TKL,Oceania,Polynesia,-9.0,-172.0
+102,Montenegro,ME,MNE,Europe,Southeast Europe,42.5,19.3
+103,Åland Islands,AX,ALA,Europe,Northern Europe,60.116667,19.9
+104,Niue,NU,NIU,Oceania,Polynesia,-19.03333333,-169.86666666
+105,Argentina,AR,ARG,Americas,South America,-34.0,-64.0
+106,Cuba,CU,CUB,Americas,Caribbean,21.5,-80.0
+107,Cayman Islands,KY,CYM,Americas,Caribbean,19.3133,-81.2546
+108,Kazakhstan,KZ,KAZ,Asia,Central Asia,48.0196,66.9237
+109,Russia,RU,RUS,Europe,Eastern Europe,60.0,100.0
+110,India,IN,IND,Asia,Southern Asia,20.0,77.0
+111,British Virgin Islands,VG,VGB,Americas,Caribbean,18.431383,-64.62305
+112,Guam,GU,GUM,Oceania,Micronesia,13.46666666,144.78333333
+113,Myanmar,MM,MMR,Asia,South-Eastern Asia,22.0,98.0
+114,DR Congo,CD,COD,Africa,Middle Africa,0.0,25.0
+115,Mauritius,MU,MUS,Africa,Eastern Africa,-20.28333333,57.55
+116,Falkland Islands,FK,FLK,Americas,South America,-51.75,-59.0
+117,Northern Mariana Islands,MP,MNP,Oceania,Micronesia,15.2,145.75
+118,Ukraine,UA,UKR,Europe,Eastern Europe,49.0,32.0
+119,Monaco,MC,MCO,Europe,Western Europe,43.73333333,7.4
+120,Tajikistan,TJ,TJK,Asia,Central Asia,39.0,71.0
+121,Malaysia,MY,MYS,Asia,South-Eastern Asia,2.5,112.5
+122,Somalia,SO,SOM,Africa,Eastern Africa,10.0,49.0
+123,Antigua and Barbuda,AG,ATG,Americas,Caribbean,17.05,-61.8
+124,Central African Republic,CF,CAF,Africa,Middle Africa,7.0,21.0
+125,Macau,MO,MAC,Asia,Eastern Asia,22.16666666,113.55
+126,Israel,IL,ISR,Asia,Western Asia,31.47,35.13
+127,Nigeria,NG,NGA,Africa,Western Africa,10.0,8.0
+128,Honduras,HN,HND,Americas,Central America,15.0,-86.5
+129,Sierra Leone,SL,SLE,Africa,Western Africa,8.5,-11.5
+130,Tunisia,TN,TUN,Africa,Northern Africa,34.0,9.0
+131,Lithuania,LT,LTU,Europe,Northern Europe,56.0,24.0
+132,Iraq,IQ,IRQ,Asia,Western Asia,33.0,44.0
+133,Switzerland,CH,CHE,Europe,Western Europe,47.0,8.0
+134,Chile,CL,CHL,Americas,South America,-30.0,-71.0
+135,Taiwan,TW,TWN,Asia,Eastern Asia,23.5,121.0
+136,Vietnam,VN,VNM,Asia,South-Eastern Asia,16.16666666,107.83333333
+137,Bangladesh,BD,BGD,Asia,Southern Asia,24.0,90.0
+138,Vanuatu,VU,VUT,Oceania,Melanesia,-16.0,167.0
+139,Pakistan,PK,PAK,Asia,Southern Asia,30.0,70.0
+140,Latvia,LV,LVA,Europe,Northern Europe,57.0,25.0
+141,Malta,MT,MLT,Europe,Southern Europe,35.9375,14.3754
+142,Seychelles,SC,SYC,Africa,Eastern Africa,-4.58333333,55.66666666
+143,Montserrat,MS,MSR,Americas,Caribbean,16.75,-62.2
+144,Anguilla,AI,AIA,Americas,Caribbean,18.25,-63.16666666
+145,Greece,GR,GRC,Europe,Southern Europe,39.0,22.0
+146,Czechia,CZ,CZE,Europe,Central Europe,49.75,15.5
+147,Zambia,ZM,ZMB,Africa,Eastern Africa,-15.0,30.0
+148,Hong Kong,HK,HKG,Asia,Eastern Asia,22.267,114.188
+149,United States,US,USA,Americas,North America,38.0,-97.0
+150,Eswatini,SZ,SWZ,Africa,Southern Africa,-26.5,31.5
+151,Slovenia,SI,SVN,Europe,Central Europe,46.11666666,14.81666666
+152,Caribbean Netherlands,BQ,BES,Americas,Caribbean,12.18,-68.25
+153,Maldives,MV,MDV,Asia,Southern Asia,3.25,73.0
+154,Ghana,GH,GHA,Africa,Western Africa,8.0,-2.0
+155,Paraguay,PY,PRY,Americas,South America,-23.0,-58.0
+156,Mozambique,MZ,MOZ,Africa,Eastern Africa,-18.25,35.0
+157,Palestine,PS,PSE,Asia,Western Asia,31.9,35.2
+158,Moldova,MD,MDA,Europe,Eastern Europe,47.0,29.0
+159,Liberia,LR,LBR,Africa,Western Africa,6.5,-9.5
+160,Liechtenstein,LI,LIE,Europe,Western Europe,47.26666666,9.53333333
+161,Peru,PE,PER,Americas,South America,-10.0,-76.0
+162,Qatar,QA,QAT,Asia,Western Asia,25.5,51.25
+163,Christmas Island,CX,CXR,Oceania,Australia and New Zealand,-10.5,105.66666666
+164,Georgia,GE,GEO,Asia,Western Asia,42.0,43.5
+165,Ecuador,EC,ECU,Americas,South America,-2.0,-77.5
+166,Philippines,PH,PHL,Asia,South-Eastern Asia,13.0,122.0
+167,Ethiopia,ET,ETH,Africa,Eastern Africa,8.0,38.0
+168,United States Virgin Islands,VI,VIR,Americas,Caribbean,18.35,-64.933333
+169,Syria,SY,SYR,Asia,Western Asia,35.0,38.0
+170,Romania,RO,ROU,Europe,Southeast Europe,46.0,25.0
+171,Guatemala,GT,GTM,Americas,Central America,15.5,-90.25
+172,Nepal,NP,NPL,Asia,Southern Asia,28.0,84.0
+173,Réunion,RE,REU,Africa,Eastern Africa,-21.15,55.5
+174,Benin,BJ,BEN,Africa,Western Africa,9.5,2.25
+175,Kuwait,KW,KWT,Asia,Western Asia,29.5,45.75
+176,Suriname,SR,SUR,Americas,South America,4.0,-56.0
+177,New Caledonia,NC,NCL,Oceania,Melanesia,-21.5,165.5
+178,Sudan,SD,SDN,Africa,Northern Africa,15.0,30.0
+179,United States Minor Outlying Islands,UM,UMI,Americas,North America,19.3,166.633333
+180,Chad,TD,TCD,Africa,Middle Africa,15.0,19.0
+181,Uruguay,UY,URY,Americas,South America,-33.0,-56.0
+182,Bosnia and Herzegovina,BA,BIH,Europe,Southeast Europe,44.0,18.0
+183,Trinidad and Tobago,TT,TTO,Americas,Caribbean,10.6918,-61.2225
+184,Sweden,SE,SWE,Europe,Northern Europe,62.0,15.0
+185,Iceland,IS,ISL,Europe,Northern Europe,65.0,-18.0
+186,Haiti,HT,HTI,Americas,Caribbean,19.0,-72.41666666
+187,Brunei,BN,BRN,Asia,South-Eastern Asia,4.5,114.66666666
+188,French Southern and Antarctic Lands,TF,ATF,Antarctic,,-49.25,69.167
+189,Guernsey,GG,GGY,Europe,Northern Europe,49.46666666,-2.58333333
+190,Croatia,HR,HRV,Europe,Southeast Europe,45.16666666,15.5
+191,Saint Barthélemy,BL,BLM,Americas,Caribbean,18.5,-63.41666666
+192,Mongolia,MN,MNG,Asia,Eastern Asia,46.0,105.0
+193,Aruba,AW,ABW,Americas,Caribbean,12.5,-69.96666666
+194,Republic of the Congo,CG,COG,Africa,Middle Africa,-1.0,15.0
+195,São Tomé and Príncipe,ST,STP,Africa,Middle Africa,1.0,7.0
+196,Yemen,YE,YEM,Asia,Western Asia,15.0,48.0
+197,Equatorial Guinea,GQ,GNQ,Africa,Middle Africa,2.0,10.0
+198,Svalbard and Jan Mayen,SJ,SJM,Europe,Northern Europe,78.0,20.0
+199,Colombia,CO,COL,Americas,South America,4.0,-72.0
+200,Guinea-Bissau,GW,GNB,Africa,Western Africa,12.0,-15.0
+201,Kiribati,KI,KIR,Oceania,Micronesia,1.41666666,173.0
+202,Germany,DE,DEU,Europe,Western Europe,51.0,9.0
+203,Thailand,TH,THA,Asia,South-Eastern Asia,15.0,100.0
+204,Isle of Man,IM,IMN,Europe,Northern Europe,54.25,-4.5
+205,Bhutan,BT,BTN,Asia,Southern Asia,27.5,90.5
+206,Gabon,GA,GAB,Africa,Middle Africa,-1.0,11.75
+207,Sint Maarten,SX,SXM,Americas,Caribbean,18.033333,-63.05
+208,Sri Lanka,LK,LKA,Asia,Southern Asia,7.0,81.0
+209,Albania,AL,ALB,Europe,Southeast Europe,41.0,20.0
+210,New Zealand,NZ,NZL,Oceania,Australia and New Zealand,-41.0,174.0
+211,Algeria,DZ,DZA,Africa,Northern Africa,28.0,3.0
+212,San Marino,SM,SMR,Europe,Southern Europe,43.76666666,12.41666666
+213,Micronesia,FM,FSM,Oceania,Micronesia,6.91666666,158.25
+214,"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,Africa,Western Africa,-15.95,-5.72
+215,Curaçao,CW,CUW,Americas,Caribbean,12.116667,-68.933333
+216,El Salvador,SV,SLV,Americas,Central America,13.83333333,-88.91666666
+217,Martinique,MQ,MTQ,Americas,Caribbean,14.666667,-61.0
+218,Nauru,NR,NRU,Oceania,Micronesia,-0.53333333,166.91666666
+219,Vatican City,VA,VAT,Europe,Southern Europe,41.9,12.45
+220,Grenada,GD,GRD,Americas,Caribbean,12.11666666,-61.66666666
+221,Tonga,TO,TON,Oceania,Polynesia,-20.0,-175.0
+222,Burundi,BI,BDI,Africa,Eastern Africa,-3.5,30.0
+223,Samoa,WS,WSM,Oceania,Polynesia,-13.58333333,-172.33333333
+224,Denmark,DK,DNK,Europe,Northern Europe,56.0,10.0
+225,Venezuela,VE,VEN,Americas,South America,8.0,-66.0
+226,Austria,AT,AUT,Europe,Central Europe,47.33333333,13.33333333
+227,Slovakia,SK,SVK,Europe,Central Europe,48.66666666,19.5
+228,China,CN,CHN,Asia,Eastern Asia,35.0,105.0
+229,British Indian Ocean Territory,IO,IOT,Africa,Eastern Africa,-6.0,71.5
+230,French Polynesia,PF,PYF,Oceania,Polynesia,-17.6797,-149.4068
+231,Bolivia,BO,BOL,Americas,South America,-17.0,-65.0
+232,Antarctica,AQ,ATA,Antarctic,,-90.0,0.0
+233,Libya,LY,LBY,Africa,Northern Africa,25.0,17.0
+234,Estonia,EE,EST,Europe,Northern Europe,59.0,26.0
+235,Cook Islands,CK,COK,Oceania,Polynesia,-21.23333333,-159.76666666
+236,Puerto Rico,PR,PRI,Americas,Caribbean,18.25,-66.5
+237,Belarus,BY,BLR,Europe,Eastern Europe,53.0,28.0
+238,Faroe Islands,FO,FRO,Europe,Northern Europe,62.0,-7.0
+239,Saint Vincent and the Grenadines,VC,VCT,Americas,Caribbean,13.25,-61.2
+240,Dominican Republic,DO,DOM,Americas,Caribbean,19.0,-70.66666666
+241,Hungary,HU,HUN,Europe,Central Europe,47.0,20.0
+242,Bahrain,BH,BHR,Asia,Western Asia,26.0,50.55
+243,Cameroon,CM,CMR,Africa,Middle Africa,6.0,12.0
+244,Canada,CA,CAN,Americas,North America,60.0,-95.0
+245,Eritrea,ER,ERI,Africa,Eastern Africa,15.0,39.0
+246,Singapore,SG,SGP,Asia,South-Eastern Asia,1.36666666,103.8
+247,Costa Rica,CR,CRI,Americas,Central America,10.0,-84.0
+248,Serbia,RS,SRB,Europe,Southeast Europe,44.0,21.0
+249,Poland,PL,POL,Europe,Central Europe,52.0,20.0
+250,Jordan,JO,JOR,Asia,Western Asia,31.0,36.0
